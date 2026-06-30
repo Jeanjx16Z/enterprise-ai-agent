@@ -12,3 +12,4 @@ __init__.py
 
 # Streamlit
 .streamlit/secrets.toml
+data/candidates/Jean_Jeasen_AI_Engineer.pdf
