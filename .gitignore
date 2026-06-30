@@ -1,0 +1,14 @@
+.env
+# Python
+__pycache__/
+*.pyc
+__init__.py
+# Conda
+.conda/
+.envrc
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
